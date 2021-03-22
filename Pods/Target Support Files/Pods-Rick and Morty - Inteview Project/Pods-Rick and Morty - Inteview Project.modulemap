@@ -1,0 +1,6 @@
+framework module Pods_Rick_and_Morty___Inteview_Project {
+  umbrella header "Pods-Rick and Morty - Inteview Project-umbrella.h"
+
+  export *
+  module * { export * }
+}
